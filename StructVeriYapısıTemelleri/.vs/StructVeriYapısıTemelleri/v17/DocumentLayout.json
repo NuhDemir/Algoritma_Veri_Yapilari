@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvAn\\Desktop\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\StructVeriYap\u0131s\u0131Temelleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53252A1C-7989-4888-BE51-3BBBB8E021A4}|StructVeriYap\u0131s\u0131Temelleri\\StructVeriYap\u0131s\u0131Temelleri.csproj|c:\\users\\evan\\desktop\\btk\\algoritma_veri_yap\u0131lar\u0131na_giris\\structveriyap\u0131s\u0131temelleri\\structveriyap\u0131s\u0131temelleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53252A1C-7989-4888-BE51-3BBBB8E021A4}|StructVeriYap\u0131s\u0131Temelleri\\StructVeriYap\u0131s\u0131Temelleri.csproj|solutionrelative:structveriyap\u0131s\u0131temelleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\StructVeriYap\u0131s\u0131Temelleri\\StructVeriYap\u0131s\u0131Temelleri\\Program.cs",
+              "RelativeDocumentMoniker": "StructVeriYap\u0131s\u0131Temelleri\\Program.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\StructVeriYap\u0131s\u0131Temelleri\\StructVeriYap\u0131s\u0131Temelleri\\Program.cs",
+              "RelativeToolTip": "StructVeriYap\u0131s\u0131Temelleri\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwD0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:40:49.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

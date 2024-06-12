@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\bin\Debug\BTKAKADEMİ.exe.config
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\bin\Debug\BTKAKADEMİ.exe
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\bin\Debug\BTKAKADEMİ.pdb
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\obj\Debug\BTKAKADEMİ.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\obj\Debug\BTKAKADEMİ.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\obj\Debug\BTKAKADEMİ.exe
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\BTKAKADEMİ\BTKAKADEMİ\obj\Debug\BTKAKADEMİ.pdb

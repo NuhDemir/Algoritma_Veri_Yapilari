@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\bin\Debug\StructVeriYapısıTemelleri.exe.config
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\bin\Debug\StructVeriYapısıTemelleri.exe
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\bin\Debug\StructVeriYapısıTemelleri.pdb
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\obj\Debug\StructVeriYapısıTemelleri.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\obj\Debug\StructVeriYapısıTemelleri.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\obj\Debug\StructVeriYapısıTemelleri.exe
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\StructVeriYapısıTemelleri\StructVeriYapısıTemelleri\obj\Debug\StructVeriYapısıTemelleri.pdb

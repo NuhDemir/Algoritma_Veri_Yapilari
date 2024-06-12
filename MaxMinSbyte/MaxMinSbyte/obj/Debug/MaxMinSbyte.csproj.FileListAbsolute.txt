@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\bin\Debug\MaxMinSbyte.exe.config
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\bin\Debug\MaxMinSbyte.exe
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\bin\Debug\MaxMinSbyte.pdb
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\obj\Debug\MaxMinSbyte.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\obj\Debug\MaxMinSbyte.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\obj\Debug\MaxMinSbyte.exe
+C:\Users\EvAn\Desktop\BTK\Algoritma_Veri_Yapılarına_Giris\MaxMinSbyte\MaxMinSbyte\obj\Debug\MaxMinSbyte.pdb
