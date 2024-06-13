@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\SortedListUygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA00D4A-6110-4416-9AD1-21E7F2F68941}|SortedListUygulamas\u0131\\SortedListUygulamas\u0131.csproj|c:\\users\\evan\\desktop\\github\\btk\\algoritma_veri_yap\u0131lar\u0131na_giris\\algoritma_veri_yapilari\\sortedlistuygulamas\u0131\\sortedlistuygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA00D4A-6110-4416-9AD1-21E7F2F68941}|SortedListUygulamas\u0131\\SortedListUygulamas\u0131.csproj|solutionrelative:sortedlistuygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\SortedListUygulamas\u0131\\SortedListUygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "SortedListUygulamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\SortedListUygulamas\u0131\\SortedListUygulamas\u0131\\Program.cs",
+              "RelativeToolTip": "SortedListUygulamas\u0131\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:48:24.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
