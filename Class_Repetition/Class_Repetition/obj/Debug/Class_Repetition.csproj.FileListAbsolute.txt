@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\bin\Debug\Class_Repetition.exe.config
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\bin\Debug\Class_Repetition.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\bin\Debug\Class_Repetition.pdb
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\obj\Debug\Class_Repetition.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\obj\Debug\Class_Repetition.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\obj\Debug\Class_Repetition.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Repetition\Class_Repetition\obj\Debug\Class_Repetition.pdb

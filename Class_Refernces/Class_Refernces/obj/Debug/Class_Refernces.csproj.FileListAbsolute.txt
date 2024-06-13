@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\bin\Debug\Class_Refernces.exe.config
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\bin\Debug\Class_Refernces.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\bin\Debug\Class_Refernces.pdb
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\obj\Debug\Class_Refernces.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\obj\Debug\Class_Refernces.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\obj\Debug\Class_Refernces.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\Class_Refernces\Class_Refernces\obj\Debug\Class_Refernces.pdb

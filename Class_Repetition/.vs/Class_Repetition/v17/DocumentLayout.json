@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\Class_Repetition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2993EE0-5DD0-4CCB-8C60-26019A4717B5}|Class_Repetition\\Class_Repetition.csproj|c:\\users\\evan\\desktop\\github\\btk\\algoritma_veri_yap\u0131lar\u0131na_giris\\algoritma_veri_yapilari\\class_repetition\\class_repetition\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2993EE0-5DD0-4CCB-8C60-26019A4717B5}|Class_Repetition\\Class_Repetition.csproj|solutionrelative:class_repetition\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2993EE0-5DD0-4CCB-8C60-26019A4717B5}|Class_Repetition\\Class_Repetition.csproj|c:\\users\\evan\\desktop\\github\\btk\\algoritma_veri_yap\u0131lar\u0131na_giris\\algoritma_veri_yapilari\\class_repetition\\class_repetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2993EE0-5DD0-4CCB-8C60-26019A4717B5}|Class_Repetition\\Class_Repetition.csproj|solutionrelative:class_repetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\Class_Repetition\\Class_Repetition\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Class_Repetition\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\Class_Repetition\\Class_Repetition\\Lecturer.cs",
+              "RelativeToolTip": "Class_Repetition\\Lecturer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:39:59.561Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\Class_Repetition\\Class_Repetition\\Program.cs",
+              "RelativeDocumentMoniker": "Class_Repetition\\Program.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\BTK\\Algoritma_Veri_Yap\u0131lar\u0131na_Giris\\Algoritma_Veri_Yapilari\\Class_Repetition\\Class_Repetition\\Program.cs",
+              "RelativeToolTip": "Class_Repetition\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:38:14.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
