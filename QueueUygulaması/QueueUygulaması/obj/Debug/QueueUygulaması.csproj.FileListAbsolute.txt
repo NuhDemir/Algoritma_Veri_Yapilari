@@ -1,0 +1,7 @@
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\bin\Debug\QueueUygulaması.exe.config
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\bin\Debug\QueueUygulaması.exe
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\bin\Debug\QueueUygulaması.pdb
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\obj\Debug\QueueUygulaması.csproj.AssemblyReference.cache
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\obj\Debug\QueueUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\obj\Debug\QueueUygulaması.exe
+C:\Users\EvAn\source\repos\QueueUygulaması\QueueUygulaması\obj\Debug\QueueUygulaması.pdb

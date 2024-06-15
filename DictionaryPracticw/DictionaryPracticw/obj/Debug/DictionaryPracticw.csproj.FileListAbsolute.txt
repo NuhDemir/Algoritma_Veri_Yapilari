@@ -1,0 +1,7 @@
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\bin\Debug\DictionaryPracticw.exe.config
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\bin\Debug\DictionaryPracticw.exe
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\bin\Debug\DictionaryPracticw.pdb
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\obj\Debug\DictionaryPracticw.csproj.AssemblyReference.cache
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\obj\Debug\DictionaryPracticw.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\obj\Debug\DictionaryPracticw.exe
+C:\Users\EvAn\source\repos\DictionaryPracticw\DictionaryPracticw\obj\Debug\DictionaryPracticw.pdb
