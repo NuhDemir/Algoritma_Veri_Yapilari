@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\bin\Debug\SortedSetPractice.exe.config
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\bin\Debug\SortedSetPractice.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\bin\Debug\SortedSetPractice.pdb
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\obj\Debug\SortedSetPractice.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\obj\Debug\SortedSetPractice.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\obj\Debug\SortedSetPractice.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetPractice\SortedSetPractice\obj\Debug\SortedSetPractice.pdb
