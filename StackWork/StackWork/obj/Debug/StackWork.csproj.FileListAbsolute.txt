@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\bin\Debug\StackWork.exe.config
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\bin\Debug\StackWork.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\bin\Debug\StackWork.pdb
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\obj\Debug\StackWork.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\obj\Debug\StackWork.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\obj\Debug\StackWork.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackWork\StackWork\obj\Debug\StackWork.pdb

@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\bin\Debug\StackPractice.exe.config
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\bin\Debug\StackPractice.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\bin\Debug\StackPractice.pdb
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\obj\Debug\StackPractice.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\obj\Debug\StackPractice.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\obj\Debug\StackPractice.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\StackPractice\StackPractice\obj\Debug\StackPractice.pdb
