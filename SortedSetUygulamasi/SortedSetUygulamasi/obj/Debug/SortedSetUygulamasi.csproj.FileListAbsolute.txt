@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\bin\Debug\SortedSetUygulamasi.exe.config
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\bin\Debug\SortedSetUygulamasi.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\bin\Debug\SortedSetUygulamasi.pdb
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\obj\Debug\SortedSetUygulamasi.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\obj\Debug\SortedSetUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\obj\Debug\SortedSetUygulamasi.exe
+C:\Users\EvAn\Desktop\Github\BTK\Algoritma_Veri_Yapılarına_Giris\Algoritma_Veri_Yapilari\SortedSetUygulamasi\SortedSetUygulamasi\obj\Debug\SortedSetUygulamasi.pdb
